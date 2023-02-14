@@ -14,19 +14,21 @@
 4. Рекомендации заказчику
 
 ### Применяемые инструменты
-__Модель предсказания__: линейная регрессия
+  __Модель предсказания__: линейная регрессия
 
-__EDA__: python, pandas, numpy, mathplotlib, seaborn, scikit-learn
+  __EDA__: python, pandas, numpy, mathplotlib, seaborn, scikit-learn
 
-__Стат. анализ__: scipy, statmodels
+  __Стат. анализ__: scipy, statmodels
 
-__Дашборд__: PowerBI
+  __Дашборд__: PowerBI
+  
+<br>
 
 ### Рабочие файлы
-Срез вакансий с сайта HH.RU: 'region_roles_(26.05.22).xlsx'
+  __Срез вакансий с сайта HH.RU__: 'region_roles_(26.05.22).xlsx'
 
-Обработка, EDA анализ, стат. анализ, визуализация: IT_labour_market_research.ipynb__
+  __Обработка, EDA анализ, стат. анализ, визуализация__: IT_labour_market_research.ipynb__
 
-Датасет вакансий с сайта HH.RU: region_roles_(26.05.22).xlsx
+  __Датасет вакансий с сайта HH.RU__: можно взять по ссылке [region_roles_(26.05.22).xlsx](https://docs.google.com/spreadsheets/d/1vEcTVmxFyKVH04rcP3wM6acWEpO4k411/edit?usp=share_link&ouid=113246342214099933828&rtpof=true&sd=true)
 
-Дашборд: dashboard_IT_labour_market.pdf, (плюс версия для PowerBI: dashboard_IT_labour_market.pbix)
+  __Дашборд__: dashboard_IT_labour_market.pdf, (плюс версия для PowerBI: dashboard_IT_labour_market.pbix)
