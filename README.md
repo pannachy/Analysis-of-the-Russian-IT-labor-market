@@ -32,3 +32,5 @@
   __Датасет вакансий с сайта HH.RU__: можно взять по ссылке [region_roles_(26.05.22).xlsx](https://docs.google.com/spreadsheets/d/1vEcTVmxFyKVH04rcP3wM6acWEpO4k411/edit?usp=share_link&ouid=113246342214099933828&rtpof=true&sd=true)
 
   __Дашборд__: dashboard_IT_labour_market.pdf, (плюс версия для PowerBI: dashboard_IT_labour_market.pbix)
+  
+  
